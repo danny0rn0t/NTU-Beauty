@@ -9,7 +9,7 @@
 ## Deployed service link
 140.112.249.184:3000
 ## Demo video link
-https://www.youtube.com/watch?fbclid=IwAR0zMMI-k-kVCxK_3d4wyph6mi_wgDfS_u_Wbpo76EXMZqjX-S012LhmqOc&v=nD85dRa-dlo&feature=youtu.be
+https://youtu.be/7SRmM0yB5zQ
 ## Introduction
   身為一個大學生，社交絕對是大學生涯之中不可或缺的一件事，因此我們透過前端與後端的整合，協助台大的學生們共同建立各學院系的帥哥美女資料庫，並加上一些功能與現成的插件，實現查找與評價的功能。
 ## Function
