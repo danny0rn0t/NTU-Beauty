@@ -13,10 +13,23 @@ https://youtu.be/7SRmM0yB5zQ
 ## Introduction
   身為一個大學生，社交絕對是大學生涯之中不可或缺的一件事，因此我們透過前端與後端的整合，協助台大的學生們共同建立各學院系的帥哥美女資料庫，並加上一些功能與現成的插件，實現查找與評價的功能。
 ## Usage
-Clone the repository. 
+1. clone the repository
 ```shell
-  
+  git clone https://github.com/danny0rn0t/NTU-Beauty.git
 ```
+2. install all dependencies 
+```shell
+  yarn
+```
+3. run backend server
+```shell
+  yarn server
+```
+4. run client server in another terminal
+```shell
+  yarn server
+```
+5. connect to localhost:3000
 ## Function
 Login Page
 - Sign up/ Sign in/ Log out
