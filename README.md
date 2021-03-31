@@ -27,7 +27,7 @@ https://youtu.be/7SRmM0yB5zQ
 ```
 4. run client server in another terminal
 ```shell
-  yarn server
+  yarn start
 ```
 5. connect to localhost:3000
 ## Function
