@@ -99,10 +99,10 @@ for details see the demo video
   - navbar.js
   - material-ui
 - B08902144 羅章元
+  - backend
   - graphql
-  - mangoose
+  - database
   - apollo client
-  - 前端處理後端取得的資料
 <!--
 ## Recommendation
 希望功課能讓我們使用到更多更完整上課教的東西，Hackthon 與 HW 的難度差很多，而學期一開始說Hackthon可以討論到變成類似考試，有點讓人措手不及
