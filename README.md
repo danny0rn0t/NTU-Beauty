@@ -7,11 +7,16 @@
 ## Name
   NTU BEAUTY MAP（台大俊男美女地圖）
 ## Deployed service link
-140.112.249.184:3000
+140.112.249.184:3000(service closed)
 ## Demo video link
 https://youtu.be/7SRmM0yB5zQ
 ## Introduction
   身為一個大學生，社交絕對是大學生涯之中不可或缺的一件事，因此我們透過前端與後端的整合，協助台大的學生們共同建立各學院系的帥哥美女資料庫，並加上一些功能與現成的插件，實現查找與評價的功能。
+## Usage
+Clone the repository. 
+```shell
+  
+```
 ## Function
 Login Page
 - Sign up/ Sign in/ Log out
