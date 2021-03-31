@@ -74,7 +74,7 @@ for details see the demo video
   - Python
   - MongoDB
   - NodeJs
-
+/*
 ## Reflection
 我們在學會 Graphql Apollo 的前後端整合之後，發現其比之前所學的更適合我們的專題發展，於是比較晚才開始著手進行。
 至於選擇這個主題的發想是因為很多人做美食地圖，但我們不想跟大家一樣，而且發現網路上除了PTT之外，沒有運用地圖介紹帥哥美女的應用，於是就訂定這個主題。
@@ -83,7 +83,7 @@ for details see the demo video
 至於資料庫的部份，由於缺乏照片使用權的關係，因此只能暫時使用Python來random產生資料庫的資料，期待大家能共同維護這個系統，也希望之後有空的時候能實現更多功能，讓使用者的體驗更加完整。
 透過這個Final project，我們將這學期所學在前後端各處實作，才更加仔細的了解所有的功能與技術，雖然中間也不斷的出現bug，也常常在互接的過程中造成css壞掉，好在在最後期限之內將大部分的問題修好。
 這次的經驗也讓我們了解到透過github分工合作的能力，了解到維護coding style 與寫註解的重要性，真的是獲益良多呢。
-
+*/
 ## Contribution
 - B08902020 陳明信
   - 報告
@@ -103,6 +103,8 @@ for details see the demo video
   - mangoose
   - apollo client
   - 前端處理後端取得的資料
+/*
 ## Recommendation
 希望功課能讓我們使用到更多更完整上課教的東西，Hackthon 與 HW 的難度差很多，而學期一開始說Hackthon可以討論到變成類似考試，有點讓人措手不及
 而deploy的部份，希望可以提供上課用過的每個前後端的deploy方式與範例，項我們用apollo client連接graphql-yoga就遇到許多問題。
+*/
